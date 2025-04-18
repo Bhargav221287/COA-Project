@@ -1,7 +1,5 @@
 # Cache Replacement Simulator
 
-![Project Preview](https://algocademy.com/blog/wp-content/uploads/2024/10/compressed_image-247-1024x585.jpg)
-
 A web-based simulator that demonstrates and compares three fundamental cache replacement policies: FIFO, LRU, and LFU.
 
 ## Features
